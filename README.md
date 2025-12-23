@@ -10,7 +10,78 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 💫 About Me:
-Full Stack Developer and Polyglot Programmer:<br>I am a dedicated programmer and advance learner <br>building a robust foundation in software engineering and<br> system design I bridge the gap between low level performance <br>and modern web scalability by mastering a new <br>diverse array of languages and frameworks<br><br>Technical Proficiencies:<br>Languages: Python, C++, Java and Javascript.<br>Frontend Frameworks: Next.js, react, tailwind CSS.<br>Backend Frameworks: Larawell, java (Spring Boot), Python (Fast API/Django)<br>Database: MySQL, MongoDB.<br>Systems: DSA, OOP.<br><br>Goal:<br>my goal is on writing optimised reusable code and <br>understanding how the system functions from the hardware <br>level up to the user interference I am currently open to <br>collaboration on open source projects and full stack challenges<br>
 
+💫 About Me
+
+I am a Full Stack Developer and Polyglot Programmer with a strong commitment to continuous learning and technical excellence. I am building a solid foundation in software engineering and system design, with a focus on bridging the gap between low-level performance and modern web scalability.
+
+I enjoy mastering diverse programming languages and frameworks, and I strive to understand how systems work—from the hardware level all the way up to user-facing applications.
+
+---
+
+🛠️ Technical Proficiencies
+
+🔹 Programming Languages
+
+Python
+
+C++
+
+Java
+
+JavaScript
+
+
+🔹 Frontend Technologies
+
+React
+
+Next.js
+
+Tailwind CSS
+
+
+🔹 Backend Technologies
+
+Laravel (PHP)
+
+Spring Boot (Java)
+
+FastAPI (Python)
+
+Django (Python)
+
+
+🔹 Databases
+
+MySQL
+
+MongoDB
+
+
+🔹 Core Concepts & Systems
+
+Data Structures & Algorithms (DSA)
+
+Object-Oriented Programming (OOP)
+
+
+
+---
+
+🎯 Goals
+
+Write optimized, reusable, and maintainable code
+
+Gain a deep understanding of systems from hardware to software layers
+
+Continuously improve problem-solving and architectural skills
+
+Collaborate on open-source projects and full-stack development challenges
+
+
+
+---
+
+📌 Always learning, always building.
 
