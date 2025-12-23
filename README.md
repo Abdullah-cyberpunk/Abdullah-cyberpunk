@@ -10,12 +10,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 ## 💫 About Me
 
-I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**, with a focus on understanding systems from low-level performance to modern web scalability.
+-I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**, with a focus on understanding systems from low-level performance to modern web scalability.
 
-I enjoy working with multiple programming languages and frameworks and aim to bridge the gap between efficient backend systems and intuitive user-facing applications.
+-I enjoy working with multiple programming languages and frameworks and aim to bridge the gap between efficient backend systems and intuitive user-facing applications.
 
 ---
 
