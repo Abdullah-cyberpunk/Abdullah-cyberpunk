@@ -1,3 +1,6 @@
+# 💫 About Me
+
+I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**,
 ## 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
@@ -27,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40"/>
 </p>
---
+
 ## 💻Tech Proficiencies 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,9 +66,7 @@
 [![](https://visitcount.itsvg.in/api?id=Abdullah-cyberpunk&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💫 About Me
-
-I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**, with a focus on understanding systems from low-level performance to modern web scalability.
+ with a focus on understanding systems from low-level performance to modern web scalability.
 
 I enjoy working with multiple programming languages and frameworks and aim to bridge the gap between efficient backend systems and intuitive user-facing applications.
 
