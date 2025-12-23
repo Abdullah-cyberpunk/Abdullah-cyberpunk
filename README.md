@@ -41,30 +41,30 @@ I enjoy working with multiple programming languages and frameworks and aim to br
 
 ---
 
-## 🛠️ Technical Proficiencies
+# 🛠️ Technical Proficiencies
 
-### 🔹 Programming Languages
+## 🔹 Programming Languages
 - Python  
 - C++  
 - Java  
 - JavaScript  
 
-### 🔹 Frontend Technologies
+## 🔹 Frontend Technologies
 - React  
 - Next.js  
 - Tailwind CSS  
 
-### 🔹 Backend Technologies
+## 🔹 Backend Technologies
 - Laravel (PHP)  
 - Spring Boot (Java)  
 - FastAPI (Python)  
 - Django (Python)  
 
-### 🔹 Databases
+## 🔹 Databases
 - MySQL  
 - MongoDB  
 
-### 🔹 Core Concepts & Systems
+## 🔹 Core Concepts & Systems
 - Data Structures & Algorithms (DSA)  
 - Object-Oriented Programming (OOP)  
 
