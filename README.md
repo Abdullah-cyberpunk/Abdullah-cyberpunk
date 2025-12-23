@@ -11,77 +11,51 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-💫 About Me
+## 💫 About Me
 
-I am a Full Stack Developer and Polyglot Programmer with a strong commitment to continuous learning and technical excellence. I am building a solid foundation in software engineering and system design, with a focus on bridging the gap between low-level performance and modern web scalability.
+I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**, with a focus on understanding systems from low-level performance to modern web scalability.
 
-I enjoy mastering diverse programming languages and frameworks, and I strive to understand how systems work—from the hardware level all the way up to user-facing applications.
-
----
-
-🛠️ Technical Proficiencies
-
-🔹 Programming Languages
-
-Python
-
-C++
-
-Java
-
-JavaScript
-
-
-🔹 Frontend Technologies
-
-React
-
-Next.js
-
-Tailwind CSS
-
-
-🔹 Backend Technologies
-
-Laravel (PHP)
-
-Spring Boot (Java)
-
-FastAPI (Python)
-
-Django (Python)
-
-
-🔹 Databases
-
-MySQL
-
-MongoDB
-
-
-🔹 Core Concepts & Systems
-
-Data Structures & Algorithms (DSA)
-
-Object-Oriented Programming (OOP)
-
-
+I enjoy working with multiple programming languages and frameworks and aim to bridge the gap between efficient backend systems and intuitive user-facing applications.
 
 ---
 
-🎯 Goals
+## 🛠️ Technical Proficiencies
 
-Write optimized, reusable, and maintainable code
+### 🔹 Programming Languages
+- Python  
+- C++  
+- Java  
+- JavaScript  
 
-Gain a deep understanding of systems from hardware to software layers
+### 🔹 Frontend Technologies
+- React  
+- Next.js  
+- Tailwind CSS  
 
-Continuously improve problem-solving and architectural skills
+### 🔹 Backend Technologies
+- Laravel (PHP)  
+- Spring Boot (Java)  
+- FastAPI (Python)  
+- Django (Python)  
 
-Collaborate on open-source projects and full-stack development challenges
+### 🔹 Databases
+- MySQL  
+- MongoDB  
 
-
+### 🔹 Core Concepts & Systems
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
 
 ---
 
-📌 Always learning, always building.
+## 🎯 Goals
+
+- Write **optimized**, **reusable**, and **maintainable** code  
+- Develop a deep understanding of how systems work from **hardware to application level**  
+- Strengthen problem-solving and software architecture skills  
+- Collaborate on **open-source projects** and **full-stack development challenges**  
+
+---
+
+📌 *Always learning. Always building.*
 
