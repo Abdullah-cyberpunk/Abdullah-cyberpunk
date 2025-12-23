@@ -1,7 +1,7 @@
 # 💫 About Me
 
 I am a **Full Stack Developer** and **Polyglot Programmer** with a strong passion for learning and building high-quality software. I am continuously developing a solid foundation in **software engineering** and **system design**
----
+--
 ## 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
