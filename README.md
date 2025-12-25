@@ -148,21 +148,7 @@ I enjoy working with multiple programming languages and frameworks and aim to br
 
 <!-- ================= END ================= -->
 
-🌐 Connect With Me
-
-A clean, vibrant & dark-themed social media icon section for your GitHub README.
-
-
----
-
-🔗 Social Profiles
-
-<p align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://facebook.com/yourusername">
     <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877F2" />
