@@ -117,11 +117,13 @@ I enjoy working with multiple programming languages and frameworks and aim to br
 
 <!-- ================= PROFILE README ================= -->
 
-<h2 align="center">A passionate frontend developer from India</h2>
+<h2 align="center">A passionate Software Engineer and developer</h2>
 
 ---
 
-- 📫 **How to reach me:** corvusdada@dada.com  
+- 📫 **How to reach me:**
+-abdullahsheikh_69
+-CodeStack4@gmail.com 
 - ⚡ **Fun fact:** I am no body!
 
 ---
